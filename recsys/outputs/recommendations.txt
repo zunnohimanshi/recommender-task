@@ -1,0 +1,5 @@
+User 0: (array([2, 1, 0], dtype=int32), array([ 9.7528076e-01,  3.2920331e-02, -3.4028235e+38], dtype=float32))
+User 1: (array([0, 3, 2], dtype=int32), array([ 0.03255556,  0.00604261, -0.01655655], dtype=float32))
+User 2: (array([1, 4, 2], dtype=int32), array([ 0.01526884, -0.00877067, -0.02232081], dtype=float32))
+User 3: (array([0, 3, 1], dtype=int32), array([ 0.9717705 ,  0.00752234, -0.01582584], dtype=float32))
+User 4: (array([3, 2, 4], dtype=int32), array([0.95860225, 0.03298858, 0.01512262], dtype=float32))
